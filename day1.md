@@ -2,7 +2,7 @@
 `Date - 22/6/2026`
 
 **Subject:** Python Programming
-**Topic Covered:** Introduction to Python, Syntax, Print Statement, Variables, Data Types, Type Casting, Input Function, Swapping & Unpacking of Variables
+##### **Topic Covered:** Introduction to Python, Syntax, Print Statement, Variables, Data Types, Type Casting, Input Function, Swapping & Unpacking of Variables
 
 ---
 

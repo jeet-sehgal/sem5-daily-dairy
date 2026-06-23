@@ -2,7 +2,7 @@
 `Date : 23/6/26`
 
 **Subject:** Python Programming
-**Topic Covered:** Python Operators – Arithmetic, Bitwise, Assignment, Comparison, Logical, Identity, Membership
+##### **Topic Covered:** Python Operators – Arithmetic, Bitwise, Assignment, Comparison, Logical, Identity, Membership
 
 ---
 
