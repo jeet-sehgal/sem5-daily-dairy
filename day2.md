@@ -165,9 +165,3 @@ print("c is nums?", c is nums)
 ## Summary of Day 2
 Today I learned about all **7 types of operators in Python** — Arithmetic, Bitwise, Assignment, Comparison, Logical, Identity, and Membership. I practiced each one with short code snippets, understood the difference between `==` (value equality) and `is` (reference/identity equality), and saw how shorthand assignment operators (`+=`, `-=`, etc.) simplify code.
 
-**Practice Questions for Tomorrow:**
-1. Write a program using all arithmetic operators on two numbers.
-2. Demonstrate the difference between `is` and `==` using two lists with same values.
-3. Write a program to check if a number exists in a list using membership operators.
-4. Use logical operators to check if a number is between 10 and 50.
-5. Use bitwise operators to swap two numbers using XOR.
